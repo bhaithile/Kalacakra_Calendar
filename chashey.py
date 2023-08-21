@@ -14,8 +14,6 @@ input_dict = {
     19: [[2, 45, 23, 362], [14, 26, 45, 456], [2, 9, 67, 198]]
     20: [[4, 10, 45, 498], [14, 26, 56, 785 [2, 9, 49, 186]],
 }
-
-because the first number has been skipped and the second is smaller, so repeat the key number 
 # The first number of the first list keeps repeating from 0 1 2 3 4 5 6 0 1 2 3 4 5 6 starting number can be any number 
 # task is to do with number of first list. 
 # expected result 
@@ -32,5 +30,7 @@ because the first number has been skipped and the second is smaller, so repeat t
     19: [[2, 45, 23, 362], [14, 26, 45, 456], [2, 9, 67, 198]]
     20: [[4, 10, 45, 498], [14, 26, 56, 785 [2, 9, 49, 186]],
 }
+
+# at the end of dict_value I need the record of skipped number and repeated number and variable that was stored.
 
 
